@@ -74,17 +74,7 @@ The dataset is preprocessed by converting the images to grayscale and normalizin
    - Generating predictions
 5. View plots and logs to analyze the model performance.
 
-## Repository Structure
 
-```
-project/
-├── data/                  # Contains SVHN dataset files
-├── mlp_model.py         # Code for MLP model
-├── cnn_model.py         # Code for CNN model
-├── preprocessing.py    # Preprocessing code
-├── predictions.py      # Code for generating predictions
-├── README.md            # Project documentation
-```
 
 ## Future Improvements
 
